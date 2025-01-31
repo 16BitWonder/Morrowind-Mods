@@ -1,10 +1,12 @@
 # Maxwell - v1.0
 This mod adds a familiar friend to the Mage's Guild of Balmora.
+
 Keep them close and they'll prove a faithful companion.
 
+![image](https://github.com/16BitWonder/Morrowind-Mods/blob/master/Maxwell/preview.png?raw=true)
+
 ## Additional Credits
-[bean(alwayshasbean)](https://sketchfab.com/alwayshasbean/) on [Sketchfab](https://sketchfab.com/3d-models/maxwell-the-cat-dingus-2ca7f3c1957847d6a145fc35de9046b0) for the model.
-https://creativecommons.org/licenses/by/4.0/
+[bean(alwayshasbean)](https://sketchfab.com/alwayshasbean/) on [Sketchfab](https://sketchfab.com/3d-models/maxwell-the-cat-dingus-2ca7f3c1957847d6a145fc35de9046b0) for the model. - https://creativecommons.org/licenses/by/4.0/
 
 [Noah Longsfellow](https://www.youtube.com/@noahlongsfellow) for an excellent [introductory video guide](https://youtu.be/Oe6oMxGy9mI) to modding.
 #
